@@ -1,2 +1,2 @@
 # ComputerScience3
-file testing
+-This is a sample file for my first github project in CS3
